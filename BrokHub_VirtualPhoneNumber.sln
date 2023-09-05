@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrokHub_VirtualPhoneNumber", "BrokHub_VirtualPhoneNumber\BrokHub_VirtualPhoneNumber.csproj", "{62F9E380-B546-4A47-B96A-F1E2648DC2EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualPhoneNumber", "VirtualPhoneNumber\VirtualPhoneNumber.csproj", "{8CA3E975-9556-46D2-8CB6-9BE59332CDB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{62F9E380-B546-4A47-B96A-F1E2648DC2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62F9E380-B546-4A47-B96A-F1E2648DC2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62F9E380-B546-4A47-B96A-F1E2648DC2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA3E975-9556-46D2-8CB6-9BE59332CDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA3E975-9556-46D2-8CB6-9BE59332CDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA3E975-9556-46D2-8CB6-9BE59332CDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA3E975-9556-46D2-8CB6-9BE59332CDB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

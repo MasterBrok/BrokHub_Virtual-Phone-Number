@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Storyboard x:Key="MouseEnter_ListBoxItem">
+        <DoubleAnimation
+            Storyboard.TargetProperty="Opacity"
+            To="0.5"
+            Duration="00:00:02" />
+    </Storyboard>
+
+    <Storyboard x:Key="MouseLeave_ListBoxItem">
+        <DoubleAnimation
+            Storyboard.TargetProperty="Opacity"
+            To="5"
+            Duration="00:00:01" />
+    </Storyboard>
+
+</ResourceDictionary>
